@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "MainApp",
+      "request": "launch",
+      "mainClass": "view.MainApp",
+      "projectName": "1_Java Project OS_69b3add"
+    },
+    {
+      "type": "java",
+      "name": "Launch MainApp",
+      "request": "launch",
+      "mainClass": "view.MainApp",
+      "vmArgs": "--module-path /Users/vallabhmhanta/Downloads/javafx-sdk-22.0.2/lib --add-modules javafx.controls,javafx.fxml",
+      "projectName": "1_Java Project OS"
+    }
+  ]
+}
+
